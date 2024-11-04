@@ -36,6 +36,6 @@ https://github.com/DiegoMS19441/Agroclimatemvc-latest
 
 # IMPORTANTE !!!!
 
-Essa aplicação possui gerenciamento de perfis, por tanto para executar a aplicação utilize "admin" nos campos de login e senha na página inicial da aplicação.
+Essa aplicação possui gerenciamento de perfis, por tanto para executar a aplicação utilize "admin" nos campos de login e senha na página inicial da aplicação, os recurso criados no portal da azure foram removidos, entretanto o azure devops segue com toda a construção feita.
 
 
