@@ -22,5 +22,20 @@ saber quais alimentos podem ser plantados em determinadas épocas do ano e não 
 insumos em plantações improdutivas.
 
 # Link de Acesso ao video de apresentação da solução em CI/CD
-https://youtu.be/mQfWR7fgqM4
+
+Youtube - https://youtu.be/mQfWR7fgqM4
+
+Vimeo - https://vimeo.com/1025979223
+
+GoogleDrive - https://drive.google.com/drive/folders/12Al5wRMrYhciylygw4qoFBb8nPf2fVdo?usp=sharing
+
+
+# Link do projeto utilizado no deploy
+
+https://github.com/DiegoMS19441/Agroclimatemvc-latest
+
+# IMPORTANTE !!!!
+
+Essa aplicação possui gerenciamento de perfis, por tanto para executar a aplicação utilize "admin" nos campos de login e senha na página inicial da aplicação.
+
 
